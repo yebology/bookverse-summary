@@ -1,16 +1,21 @@
 # Book-Verse : Discover, Read, and Engage with Your Digital Books on the ICP Ecosystem. 🚀
 
 ## ✨ Overview
-Welcome to Book-Verse, your gateway to discovering, reading, and interacting with digital books on the ICP ecosystem! 📚🚀 Here, you can explore a vast library of digital literature, upload your own books, and even receive donations from readers. 🌟📖 Engage with content, share your work, and connect with a supportive community of book lovers. 💬✨
+Welcome to Book-Verse, your gateway to discovering, reading, and interacting with digital books on the ICP ecosystem, all with secure authentication through Internet Identity! 📚🚀 Explore a vast library of digital literature, upload your own books, and even receive donations from readers. 🌟📖 Engage with content, share your work, and connect with a supportive community of book lovers. 💬✨
 
 ## 💡 Features
 - 📤 Upload Books
 - 📚 Read Books
-- ✅ Complete Task
-- 💸 Donate
+- ✅ Complete Tasks
+- 💸 Donate Points
 - 🔖 Manage Bookmarks (Add and Remove Books)
   
 ## 📋 How It Works
+- 📤 Upload Books : Add your own digital books to the platform for others to read and enjoy. 📚
+- 📚 Read Books : Access and immerse yourself in a wide range of digital literature available on the platform. 🌟
+- ✅ Complete Tasks : Earn points by finishing specific tasks or activities related to the platform. 🎯
+- 💸 Donate Points : Donate points to support your favorite authors and help them continue creating great content. 🌟
+- 🔖 Manage Bookmarks (Add and Remove Books) : Organize your favorite books by adding or removing them from your bookmarks. 📌
 
 ## 📈 Adoption Strategies
 
@@ -19,6 +24,7 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 ## ⚙️ Tech Stack Behind Book-Verse :
 - 🖥️ Frontend : ReactJS (Javascript)
 - 🔧 Canister Development : Motoko
+- 🔑 Authentication : Internet Identity
 - 🧩 Component Library : Aceternity UI
 - 🌐 IPFS Provider : Pinata
 - 🎨 Styling : TailwindCSS
