@@ -18,6 +18,11 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 🔖 Manage Bookmarks (Add and Remove Books) : Organize your favorite books by adding or removing them from your bookmarks. 📌
 
 ## 📈 Adoption Strategies
+- ✍️ Invite famous authors from various platforms to attract the attention of the literary community by joining as authors on Book-Verse.
+- 📚 Promote the platform through writing communities, as anyone can become a writer and publish their own books on Book-Verse.
+- 🎁 At launch, introduce a point system where users can earn points for free by completing tasks such as inviting friends to join Book-Verse via referral links. These points can later be converted into ICP coins in future updates.
+- 🌐 Build a Book-Verse community where users can interact and share experiences each other.
+- 🎤 Host exclusive programs like webinars and workshops to engage with potential users, allowing closer interaction through Q&A sessions and hands-on workshop activities.
 
 ## 💵 Revenue Model
 
