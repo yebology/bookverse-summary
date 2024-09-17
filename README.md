@@ -1,9 +1,15 @@
 # Book-Verse : Discover, Read, and Engage with Your Digital Books on the ICP Ecosystem. 🚀
 
 ## ✨ Overview
+Welcome to Book-Verse, your gateway to discovering, reading, and interacting with digital books on the ICP ecosystem! 📚🚀 Here, you can explore a vast library of digital literature, upload your own books, and even receive donations from readers. 🌟📖 Engage with content, share your work, and connect with a supportive community of book lovers. 💬✨
 
 ## 💡 Features
-
+- 📤 Upload Books
+- 📚 Read Books
+- ✅ Complete Task
+- 💸 Donate
+- 🔖 Manage Bookmarks (Add and Remove Books)
+  
 ## 📋 How It Works
 
 ## 📈 Adoption Strategies
