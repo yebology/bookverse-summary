@@ -51,7 +51,7 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 ## 🚀 Book-Verse Insights : Code, Canister, Assets, and Video
 - 💻 dApp : [See the code](https://github.com/yebology/bookverse-dapp.git)
 - 🔧 Canister :  [See the code](https://github.com/yebology/bookverse-canister.git)
-- 🗂️ Business Model Canvas (BMC) : [View BMC (Coming soon)]()
+- 🗂️ Business Model Canvas (BMC) : [View BMC](https://drive.google.com/file/d/1EtW8PSVwCWkTUr4x9VLRsCbFdZrqHDry/view?usp=sharing)
 - 📜 Canister Address : [View on ICP Dashboard](https://dashboard.internetcomputer.org/canister/bczox-miaaa-aaaap-qhypa-cai)
 - 🎥 Demo Video : [Watch Demo Video (Coming soon)]()
 - 🎤 Presentation Video : [Watch Presentation Video (Indo. ver) (Coming soon)]()
