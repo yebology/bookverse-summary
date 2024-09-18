@@ -25,7 +25,7 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 🎤 Host exclusive programs like webinars and workshops to engage with potential users, allowing closer interaction through Q&A sessions and hands-on workshop activities.
 - 🌍 Hold regular offline meetings in various countries to strengthen the Book-Verse community in each region.
 
-## 💵 Revenue Model
+## 💵 Revenue Stream
 - 🤝 Collaborate with Web3 investors to secure funding for the development of the Book-Verse platform.
 - 🔮 In future updates, authors will be able to go premium at no cost, allowing only subscribing users to enjoy their content. Authors can set their own subscription prices, and the platform will automatically retain an 11% fee for each subscription transaction.
 - 📢 Authors can promote their books by paying for advertising on the platform. These ads will be featured as pinned recommendations on the homepage for the specified duration.
