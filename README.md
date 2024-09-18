@@ -30,6 +30,8 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 🔮 In future updates, authors will be able to go premium at no cost, allowing only subscribing users to enjoy their content. Authors can set their own subscription prices, and the platform will automatically retain an 11% fee for each subscription transaction.
 - 📢 Authors can promote their books by paying for advertising on the platform. These ads will be featured as pinned recommendations on the homepage for the specified duration.
 - 🎟️ Organize various paid events, such as meet-and-greet sessions with famous Book-Verse authors and skill-enhancement workshops for writers, offering direct feedback from industry experts.
+- 🛒 Sell digital assets, such as Book-Verse mascots in the form of NFTs, directly on the platform.
+- 📢 In the future, Book-Verse will introduce a new feature allowing authors to sell books with their signatures. Each NFT book purchase will incur an automatic platform fee of 11%.
 
 ## ⚙️ Tech Stack Behind Book-Verse :
 - 🖥️ Frontend : ReactJS (Javascript)
