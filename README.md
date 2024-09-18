@@ -8,14 +8,14 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 📚 Read Books
 - ✅ Complete Tasks
 - 💸 Donate Points
-- 🔖 Manage Bookmarks (Add and Remove Books)
+- 🔖 Manage Bookmarks
   
 ## 📋 How It Works
 - 📤 Upload Books : Add your own digital books to the platform for others to read and enjoy. 📚
 - 📚 Read Books : Access and immerse yourself in a wide range of digital literature available on the platform. 🌟
 - ✅ Complete Tasks : Earn points by finishing specific tasks or activities related to the platform. 🎯
 - 💸 Donate Points : Donate points to support your favorite authors and help them continue creating great content. 🌟
-- 🔖 Manage Bookmarks (Add and Remove Books) : Organize your favorite books by adding or removing them from your bookmarks. 📌
+- 🔖 Manage Bookmarks : Organize your favorite books by adding or removing them from your bookmarks. 📌
 
 ## 📈 Adoption Strategies
 - ✍️ Invite famous authors from various platforms to attract the attention of the literary community by joining as authors on Book-Verse.
