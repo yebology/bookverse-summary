@@ -23,8 +23,13 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 🎁 At launch, introduce a point system where users can earn points for free by completing tasks such as inviting friends to join Book-Verse via referral links. These points can later be converted into ICP coins in future updates.
 - 🌐 Build a Book-Verse community where users can interact and share experiences each other.
 - 🎤 Host exclusive programs like webinars and workshops to engage with potential users, allowing closer interaction through Q&A sessions and hands-on workshop activities.
+- 🌍 Hold regular offline meetings in various countries to strengthen the Book-Verse community in each region.
 
 ## 💵 Revenue Model
+- 🤝 Collaborate with Web3 investors to secure funding for the development of the Book-Verse platform.
+- 🔮 In future updates, authors will be able to access premium features at no cost, allowing only subscribing users to enjoy their content. Authors can set their own subscription prices, and the platform will automatically retain an 11% fee for each subscription transaction.
+- 📢 Authors can promote their books by paying for advertising on the platform. These ads will be featured as pinned recommendations on the homepage for the specified duration.
+- 🎟️ Organize various paid events, such as meet-and-greet sessions with famous Book-Verse authors and skill-enhancement workshops for writers, offering direct feedback from industry experts.
 
 ## ⚙️ Tech Stack Behind Book-Verse :
 - 🖥️ Frontend : ReactJS (Javascript)
