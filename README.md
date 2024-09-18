@@ -57,7 +57,6 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 🗂️ Business Model Canvas (BMC) : [View BMC](https://drive.google.com/file/d/1EtW8PSVwCWkTUr4x9VLRsCbFdZrqHDry/view?usp=sharing)
 - 📜 Canister Address : [View on ICP Dashboard](https://dashboard.internetcomputer.org/canister/bczox-miaaa-aaaap-qhypa-cai)
 - 🎥 Demo Video : [Watch Demo Video (Coming soon)]()
-- 🎤 Presentation Video : [Watch Presentation Video (Indo. ver) (Coming soon)]()
 
 ## 🖼️ Assets Reference
 - Symbol (Bitcoin, Discord, Instagram, Twitter, Medium) : [FontAwesome](https://fontawesome.com/)
