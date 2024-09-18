@@ -11,16 +11,16 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 🔖 Manage Bookmarks
   
 ## 📋 How It Works
-- 📤 Upload Books : Add your own digital books to the platform for others to read and enjoy. 📚
-- 📚 Read Books : Access and immerse yourself in a wide range of digital literature available on the platform. 🌟
-- ✅ Complete Tasks : Earn points by finishing specific tasks or activities related to the platform. 🎯
+- 📤 Upload Books : Add your own digital books on the platform for others to read and enjoy. 📚
+- 📚 Read Books : Access and immerse yourself in a wide range of digital literature available on this platform. 🌟
+- ✅ Complete Tasks : Earn points by finishing specific tasks or activities related on this platform. 🎯
 - 💸 Donate Points : Donate points to support your favorite authors and help them continue creating great content. 🌟
 - 🔖 Manage Bookmarks : Organize your favorite books by adding or removing them from your bookmarks. 📌
 
 ## 📈 Adoption Strategies
 - ✍️ Invite famous authors from various platforms to attract the attention of the literary community by joining as authors on Book-Verse.
 - 📚 Promote the platform through writing communities, as anyone can become a writer and publish their own books on Book-Verse.
-- 🎁 At launch, introduce a point system where users can earn points for free by completing tasks such as inviting friends to join Book-Verse via referral links. These points can later be converted into ICP coins in future updates.
+- 🎁 At launch, we will introduce a point system where users can earn points for free by completing tasks such as inviting friends to join Book-Verse via referral links. These points can later be converted into ICP coins in future updates.
 - 🌐 Build a Book-Verse community where users can interact and share experiences each other.
 - 🎤 Host exclusive programs like webinars and workshops to engage with potential users, allowing closer interaction through Q&A sessions and hands-on workshop activities.
 - 🌍 Hold regular offline meetings in various countries to strengthen the Book-Verse community in each region.
