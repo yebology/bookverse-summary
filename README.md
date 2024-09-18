@@ -17,6 +17,9 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 💸 Donate Points : Donate points to support your favorite authors and help them continue creating great content. 🌟
 - 🔖 Manage Bookmarks : Organize your favorite books by adding or removing them from your bookmarks. 📌
 
+## 📌 What is The Problem ?
+-
+
 ## 📈 Adoption Strategies
 - ✍️ Invite famous authors from various platforms to attract the attention of the literary community by joining as authors on Book-Verse.
 - 📚 Promote the platform through writing communities, as anyone can become a writer and publish their own books on Book-Verse.
