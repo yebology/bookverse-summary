@@ -48,11 +48,15 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 🧑 Lie, Samuel Miracle Kristanto : [@Attraqtia](https://github.com/Attraqtia)
 - 🧑 Yobel Nathaniel Filipus : [@yebology](https://github.com/yebology)
   
-## 🚀 Book-Verse Insights : Code, Canister, Assets, and Video
+## 🚀 Book-Verse Insights : Code, Canister, BMC, and Video
 - 💻 dApp : [See the code](https://github.com/yebology/bookverse-dapp.git)
 - 🔧 Canister :  [See the code](https://github.com/yebology/bookverse-canister.git)
 - 🗂️ Business Model Canvas (BMC) : [View BMC](https://drive.google.com/file/d/1EtW8PSVwCWkTUr4x9VLRsCbFdZrqHDry/view?usp=sharing)
 - 📜 Canister Address : [View on ICP Dashboard](https://dashboard.internetcomputer.org/canister/bczox-miaaa-aaaap-qhypa-cai)
 - 🎥 Demo Video : [Watch Demo Video (Coming soon)]()
 - 🎤 Presentation Video : [Watch Presentation Video (Indo. ver) (Coming soon)]()
-- 🖼️ Assets Reference : [Explore the assets (Coming soon)]()
+
+## 🖼️ Assets Reference
+- Symbol (Bitcoin, Discord, Instagram, Twitter, Medium) : [FontAwesome](https://fontawesome.com/)
+- Picture Beside Publish Form : [VectorStock](https://www.vectorstock.com/royalty-free-vector/blue-dot-wave-pattern-digital-vector-50803791)
+- Avatar Generator : [DiceBear](https://www.dicebear.com/)
