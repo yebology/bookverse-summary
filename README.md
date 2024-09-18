@@ -60,4 +60,4 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - Symbol (Bitcoin, Discord, Instagram, Twitter, Medium) : [FontAwesome](https://fontawesome.com/)
 - Picture Beside Publish Form : [VectorStock](https://www.vectorstock.com/royalty-free-vector/blue-dot-wave-pattern-digital-vector-50803791)
 - Avatar Generator : [DiceBear](https://www.dicebear.com/)
-- ICP Logo : [https://cryptologos.cc/internet-computer]
+- ICP Logo : [ICP Logo](https://cryptologos.cc/internet-computer)
