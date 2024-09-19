@@ -1,7 +1,7 @@
 # Book-Verse : Discover, Read, and Engage with Your Digital Books on the ICP Ecosystem. 🚀
 
 ## ✨ Overview
-Welcome to Book-Verse, your gateway to discovering, reading, and interacting with digital books on the ICP ecosystem, all with secure authentication through Internet Identity! 📚🚀 Explore a vast library of digital literature, upload your own books, and even receive donations from readers. 🌟📖 
+Welcome to Book-Verse, a revolutionary Web3 platform on the ICP network! 📚🚀 Effortlessly upload your digital books, discover and interact with others' works, all secured with robust Internet Identity authentication. 🌟📖 At launch, participate in our complete-to-earn system and earn points by completing platform tasks, which can be donated to your favorite authors. 🎉💖 In future updates, these points will be convertible to ICP coins! 💰
 
 ## 💡 Features
 - 📤 Upload Books
