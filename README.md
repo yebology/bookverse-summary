@@ -17,7 +17,7 @@ Welcome to Book-Verse, a revolutionary Web3 platform on the ICP network! 📚�
 - 💸 Donate Points : Donate points to support your favorite authors and help them continue creating great content. 🌟
 - 🔖 Manage Bookmarks : Organize your favorite books by adding or removing them from your bookmarks. 📌
   
-## 🚀 Book-Verse Insights : Code, Business Description, Guide and Demo Video
+## 🚀 Book-Verse Insights
 - 💻 dApp (Frontend) : [See the code](https://github.com/yebology/bookverse-dapp.git)
 - 🔧 Canister (Backend) :  [See the code](https://github.com/yebology/bookverse-canister.git)
 - 📊 Business Overview : [View File](https://drive.google.com/file/d/19Lo6isiS840E-Zkpc298dDcNSC6CcJh4/view?usp=sharing)
