@@ -22,7 +22,7 @@ Welcome to Book-Verse, a revolutionary Web3 platform on the ICP network! 📚�
 - 🔧 Canister (Backend) :  [See the code](https://github.com/yebology/bookverse-canister.git)
 - 📊 Business Overview : [View File](https://drive.google.com/file/d/19Lo6isiS840E-Zkpc298dDcNSC6CcJh4/view?usp=sharing)
 - 🗂️ Business Model Canvas (BMC) : [View BMC](https://drive.google.com/file/d/1EtW8PSVwCWkTUr4x9VLRsCbFdZrqHDry/view?usp=sharing)
-- 📝 Tech Guide : [View Guide (Not done)](https://github.com/yebology/bookverse-tech.git)
+- 📝 Tech Guide : [View Guide](https://github.com/yebology/bookverse-tech.git)
 - 📜 Canister Address : [View on ICP Dashboard](https://dashboard.internetcomputer.org/canister/bczox-miaaa-aaaap-qhypa-cai)
 - 🎥 Demo Video : [Watch Demo Video (Coming soon)]()
 
