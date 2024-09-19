@@ -24,7 +24,7 @@ Welcome to Book-Verse, your gateway to discovering, reading, and interacting wit
 - 🧑 Lie, Samuel Miracle Kristanto : [@Attraqtia](https://github.com/Attraqtia)
 - 🧑 Yobel Nathaniel Filipus : [@yebology](https://github.com/yebology)
   
-## 🚀 Book-Verse Insights : Code, Canister, BMC, and Video
+## 🚀 Book-Verse Insights : Code, Business Description, Guide and Demo Video
 - 💻 dApp : [See the code](https://github.com/yebology/bookverse-dapp.git)
 - 🔧 Canister :  [See the code](https://github.com/yebology/bookverse-canister.git)
 - 📊 Business Overview : [View File (Coming soon]()
