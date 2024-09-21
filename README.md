@@ -23,9 +23,9 @@ Welcome to Book-Verse, a revolutionary Web3 platform on the ICP network! 📚�
 - 📊 Business Overview : [View File](https://drive.google.com/file/d/19Lo6isiS840E-Zkpc298dDcNSC6CcJh4/view?usp=sharing)
 - 🗂️ Business Model Canvas (BMC) : [View BMC](https://drive.google.com/file/d/1EtW8PSVwCWkTUr4x9VLRsCbFdZrqHDry/view?usp=sharing)
 - 📝 Tech Guide : [View Guide](https://github.com/yebology/bookverse-tech.git)
-- 📖 Usage Guidebook : [View Guide (Coming soon)]()
+- 📖 Usage Guidebook : [View Guide](https://drive.google.com/file/d/1wHj_tpWtB7PM8AdQTmIN2MYQDgErUv_E/view?usp=sharing)
 - 📜 Canister Address : [View on ICP Dashboard Mainnet](https://dashboard.internetcomputer.org/canister/bczox-miaaa-aaaap-qhypa-cai)
-- 🎥 Demo Video : [Watch Video (Coming soon)]()
+- 🎥 Demo Video : [Watch Video](https://drive.google.com/file/d/1tiJMe89o_xEN3rcA4epnErPF61nOnrdX/view?usp=sharing)
 
 ## 🖼️ Assets Reference
 - Symbol (Bitcoin, Discord, Instagram, Twitter, Medium) : [FontAwesome](https://fontawesome.com/)
