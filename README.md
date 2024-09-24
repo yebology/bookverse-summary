@@ -20,7 +20,7 @@ Welcome to Book-Verse, a revolutionary Web3 platform on the ICP network! 📚�
 ## 🚀 Book-Verse Insights
 - 💻 dApp (Frontend) : [View Code](https://github.com/yebology/bookverse-dapp.git)
 - 🔧 Canister (Backend) :  [View Code](https://github.com/yebology/bookverse-canister.git)
-- 📊 Business Overview : [View File](https://drive.google.com/file/d/19Lo6isiS840E-Zkpc298dDcNSC6CcJh4/view?usp=sharing)
+- 📊 Business Overview : [View File](https://drive.google.com/file/d/1hH-4cnd8Fuf96KrS6yTWGhvksu1YdWPN/view?usp=sharing)
 - 🗂️ Business Model Canvas (BMC) : [View BMC](https://drive.google.com/file/d/1EtW8PSVwCWkTUr4x9VLRsCbFdZrqHDry/view?usp=sharing)
 - 📝 Tech Guide : [View Guide](https://github.com/yebology/bookverse-tech.git)
 - 📖 Usage Guidebook : [View Guide](https://drive.google.com/file/d/1wHj_tpWtB7PM8AdQTmIN2MYQDgErUv_E/view?usp=sharing)
